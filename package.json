@@ -24,11 +24,10 @@
   },
   "homepage": "",
   "peerDependencies": {
-    "react": "17.0.2",
+    "react": "17.0.1",
     "react-native": "0.64.0"
   },
   "devDependencies": {
-    "typescript": "4.2.4",
     "@babel/core": "7.12.9",
     "@babel/runtime": "7.12.5",
     "metro-react-native-babel-preset": "0.64.0"
