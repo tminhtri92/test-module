@@ -1,8 +1,12 @@
 import React, { Component } from "react";
-import { View, StyleSheet } from "react-native";
+import { View, StyleSheet, Text } from "react-native";
 
 export default class Test extends Component {
   render() {
-    return <View>Test</View>;
+    return (
+      <View>
+        <Text>Test V1</Text>
+      </View>
+    );
   }
 }
