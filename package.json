@@ -1,44 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "fashasa-test-module",
-  "version": "1.0.0",
-  "description": "test",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "scripts": {
-    "prepublish": "npm run build",
-    "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react-native",
-    "floating-action-button",
-    "social",
-    "expo",
-    "mobile",
-    "ios",
-    "android",
-    "web"
-  ],
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
-  "devDependencies": {
-    "@babel/core": "7.12.9",
-    "@babel/runtime": "7.12.5",
-    "metro-react-native-babel-preset": "0.64.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": ""
-  },
-  "author": "Minh Tri <tmtri92.td@gmail.com>",
-  "license": "MIT",
-  "dependencies": {
-    "fashasa-test-module": "1.0.0"
-  }
-=======
   "name": "testtttt",
   "version": "1.0.0",
   "description": "",
@@ -48,5 +8,4 @@
   },
   "author": "",
   "license": "ISC"
->>>>>>> Update
 }
